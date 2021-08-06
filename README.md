@@ -30,7 +30,7 @@
 
 **¿De qué trata el ejemplo?**
 
-Es el servicio de una calculadora que guarda las notas que ingresa un usuario que se conecta a un servidor web y mediante lógica de programación en el editor de texto ATOM crea un algoritmo para obtener el promedio total de las notas y comprueba si el usuario aprueba o  no. 
+Generación de una aplicación que tiene un servicio web de una calculadora que guarda las notas que ingresa un usuario y mediante lógica de programación en el editor de texto ATOM crea un algoritmo para obtener el promedio total de las notas y comprueba si el usuario aprueba o no. 
 
 **Desarrollo:**
 
@@ -67,7 +67,8 @@ http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&
 
 ![](https://user-images.githubusercontent.com/84998005/128453727-e81b020b-d1bb-4af8-8790-b90cab84630e.png)
 
-7.
+7.Puede funcionar de distintas maneras, una de ellas es a través de usb conectado al celular previamente descargada la app y conectado a la misma red, la que vamos a utilizar en ese caso es la del emulador que descargamos previamente (aiStarted). 
+
 
 
 
