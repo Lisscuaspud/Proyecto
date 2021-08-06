@@ -57,6 +57,8 @@ Se despliegan los archivos guardados en la carpeta calcws.
 Como el usuario debe ingresar los valores para que el servicio funcione implemtenamos a la url Nota1=10, Nota2=13, Nota3=15 de la siguiente manera:
 http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&txtNota3=15. Verificamos que esta funcionando .
 
+![](https://user-images.githubusercontent.com/84998005/128450995-9cd40ce3-6fea-4e8e-88ab-a2beae86f00e.png)
+
 
 
 
