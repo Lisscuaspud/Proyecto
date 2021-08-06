@@ -63,6 +63,8 @@ http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&
 
 ![](https://user-images.githubusercontent.com/84998005/128452386-8dbb1ac1-02bc-47c3-ad23-7dd5d2dabaae.png)
 
+6. Procedemos a realizar la programación grafica para nuestra app con las herramientas necesarias teniendo en cuenta se utilizará la url global de nuestro servicio para acceder a los valores que ingrese el usuario. 
+
 
 
 
