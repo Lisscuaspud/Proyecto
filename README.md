@@ -52,6 +52,13 @@ Para poder generar el servidor necesitamos una puerta de enlace, en nuestro caso
 4. Para acceder al servicio web mediante la url como método de comprobación debemos escribir en el navegador http://localhost:8080/calcws/servicioCalc. Donde 8080 es la puerta de enlace / a donde quiero acceder.
 Se despliegan los archivos guardados en la carpeta calcws.
 
+![](https://user-images.githubusercontent.com/84998005/128449603-83c0c815-b306-41e2-88f5-3695abf67e4b.png)
+
+Como el usuario debe ingresar los valores para que el servicio funcione implemtenamos a la url Nota1=10, Nota2=13, Nota3=15 de la siguiente manera:
+http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&txtNota3=15. Verificamos que esta funcionando .
+
+
+
 
 
 
