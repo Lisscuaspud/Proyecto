@@ -30,7 +30,7 @@
 
 **¿De qué trata el ejemplo?**
 
-Es una calculadora que guarda las notas que ingresa un usuario que se conecta a un servidor web y mediante lógica de programación en el editor de texto ATOM crea un algoritmo para obtener el promedio total de las notas y comprueba si el usuario aprueba o no. 
+Es el servicio de una calculadora que guarda las notas que ingresa un usuario que se conecta a un servidor web y mediante lógica de programación en el editor de texto ATOM crea un algoritmo para obtener el promedio total de las notas y comprueba si el usuario aprueba o  no. 
 
 **Desarrollo:**
 
@@ -48,6 +48,9 @@ Para poder generar el servidor necesitamos una puerta de enlace, en nuestro caso
 ![](https://user-images.githubusercontent.com/84998005/128447811-8edf29a0-5ada-4438-915a-a6487a0d21ae.png)
 
 ![](https://user-images.githubusercontent.com/84998005/128447817-c402fb23-d7a5-4fd7-b553-9f76c913598c.png)
+
+4. Para acceder al servicio web mediante la url como método de comprobación debemos escribir en el navegador http://localhost:8080/calcws/servicioCalc. Donde 8080 es la puerta de enlace / a donde quiero acceder.
+Se despliegan los archivos guardados en la carpeta calcws.
 
 
 
