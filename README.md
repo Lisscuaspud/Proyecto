@@ -69,16 +69,13 @@ http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&
 
 7.Puede funcionar de distintas maneras, una de ellas es a través de usb conectado al celular previamente descargada la app y conectado a la misma red, la que vamos a utilizar en ese caso es la del emulador que descargamos previamente (aiStarted). 
 
+![](https://user-images.githubusercontent.com/84998005/128454924-6408e056-a7dc-4591-8223-7ff481f6095f.png)
 
+Finalmente ingresamos los valores y observamos que la aplicación funciona de manera correcta. 
 
+![](https://user-images.githubusercontent.com/84998005/128454893-991f1f2a-c35f-4626-a8b8-e34173b3fe69.png)
 
-
-
-
-
-
-
-
+![](https://user-images.githubusercontent.com/84998005/128454926-9996f9e4-66f6-42f9-8241-e7e52293d3f9.png)
 
 
 # CONCLUSION: 
