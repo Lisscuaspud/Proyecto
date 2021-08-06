@@ -59,6 +59,8 @@ http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=13&
 
 ![](https://user-images.githubusercontent.com/84998005/128450995-9cd40ce3-6fea-4e8e-88ab-a2beae86f00e.png)
 
+5. Ahora, esta interfaz vamos a trasladar al App inventor, que es un entorno de desarrollo visual de aplicaciones para dispositivos Android, donde se realizara el diseño de la calculadora, colocándole una imagen, textbox para ingresar letras, button (botón) y lo más importante el webviewer ya que este se conectara con nuestro servicio web.
+
 
 
 
