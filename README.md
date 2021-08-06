@@ -45,6 +45,10 @@ Para poder generar el servidor necesitamos una puerta de enlace, en nuestro caso
 
 3.Vamos a utilizar el editor de texto ATOM, con un tipo de lenguaje de programación con el fin de crear los archivos (vistaCalc.php, servicioCalc.php), que se guardaran en las carpetas creadas en el paso anterior. 
 
+![](https://user-images.githubusercontent.com/84998005/128447811-8edf29a0-5ada-4438-915a-a6487a0d21ae.png)
+
+![](https://user-images.githubusercontent.com/84998005/128447817-c402fb23-d7a5-4fd7-b553-9f76c913598c.png)
+
 
 
 
