@@ -16,9 +16,11 @@
 
 **Ejemplo para conexión de una APP Android desarrollada en APP inventor con un servicio web.**
 
-# OBJETIVOs:
+# OBJETIVO GENERAL:
 
 - Realizar la conexión de una APP Android desarrollada en App inventor con un servidor web.
+
+# OBJETIVOS  ESPECÍFICOS:
 
 -  Detallar el proceso de para generar el servicio web con la herramienta de desarrollo XAMPP.
 
@@ -41,7 +43,7 @@ Para poder generar el servidor necesitamos una puerta de enlace, en nuestro caso
 
 ![](https://user-images.githubusercontent.com/84998005/128445261-b4690ef9-0df6-4f70-bfdf-2702a529a2cb.png)
 
-
+3. 
 
 
 
