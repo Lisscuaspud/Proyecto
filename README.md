@@ -39,6 +39,8 @@ Para poder generar el servidor necesitamos una puerta de enlace, en nuestro caso
 
 2. Nos dirigimos a realizar los servicios en el disco local c, en la carpeta XAMPP, en htdocs, y se crean las carpetas dónde van a contener los documentos php o html, los cuales se visualizarán a través del servidor web. 
 
+![](https://user-images.githubusercontent.com/84998005/128445261-b4690ef9-0df6-4f70-bfdf-2702a529a2cb.png)
+
 
 
 
