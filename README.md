@@ -80,6 +80,11 @@ Finalmente ingresamos los valores y observamos que la aplicación funciona de ma
 
 # CONCLUSION: 
 
+- Mediante el uso del paquete de software libre XAMPP se logró generar un servicio web empleando el servidor HTTP Apache.
+
+- Se pudo acceder de manera exitosa a este servicio web mediante la conexión con la interfaz de usuario generada en el entorno de desarrollo App Inventor y la herramientas que este nos brinda.
+
+- El servicio web que realizamos se almaceno de manera correcta y lo comprobamos en los anteriores pasos. 
 
 
 
