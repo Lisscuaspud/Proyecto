@@ -86,5 +86,16 @@ Finalmente ingresamos los valores y observamos que la aplicación funciona de ma
 
 - El servicio web que realizamos se almaceno de manera correcta y lo comprobamos en los anteriores pasos. 
 
+# ANEXOS: 
+
+DIRECCION DEL SERVICIO WEB 
+
+http://localhost:8080/calcws/servicioCalc.php?btn1=true&txtNota1=10&txtNota2=10&txtNota3=10
+
+DISEÑO APP
+
+http://ai2.appinventor.mit.edu/#5226472599322624
+
+
 
 
